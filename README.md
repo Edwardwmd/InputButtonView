@@ -8,4 +8,4 @@ InputButtonView是一个简单的组合型自定义开关,继承自ConstraintLay
 
 
 
-<img src="I:\Android_Dev_Projects\InputButtonView\demogif\inputbuttonview 操作示意图.gif" style="zoom:35%;" />
+<iframe height=1920 width=1080 src="I:\Android_Dev_Projects\InputButtonView\demogif\inputbuttonview 操作示意图.gif">
